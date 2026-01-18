@@ -40,6 +40,6 @@
 
   <br>
 
-  <img src="https://media.tenor.com/On7kvXhzml4AAAAi/loading-glitch.gif" width="50">
+ <img src="https://i.gifer.com/7S86.gif" width="60" style="opacity: 0.7;">
 
 </div>
