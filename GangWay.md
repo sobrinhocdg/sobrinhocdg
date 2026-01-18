@@ -25,10 +25,21 @@
   </p>
 
   ### 🐍 Minha Cobra Devoradora de Pussy:
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sobrinhocdg/sobrinhocdg/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/sobrinhocdg/sobrinhocdg/blob/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://github.com/sobrinhocdg/sobrinhocdg/blob/output/github-contribution-grid-snake.svg" />
   </picture>
+
+  <br><br>
+
+  <h3>🎧 Neuro-Link Ativo:</h3>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ehwlkaa7bcqfzwpdrsj5qdlswe&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ehwlkaa7bcqfzwpdrsj5qdlswe&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=ff0000&bar_color_cover=false" />
+  </a>
+
+  <br>
+
+  <img src="https://media.tenor.com/On7kvXhzml4AAAAi/loading-glitch.gif" width="50">
+
 </div>
