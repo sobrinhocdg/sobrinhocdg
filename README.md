@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/pSmA3Fzdy7gOc/giphy.gif" width="100%" height="200"/>
+  <img src="[https://media.giphy.com/media/pSmA3Fzdy7gOc/giphy.gif](https://wallpapers-clan.com/wp-content/uploads/2024/08/berserk-guts-red-glowing-eye-gif-desktop-wallpaper-preview.gif)" width="100%" height="200"/>
 
-  # ⚡ SYSTEM OVERRIDE: HARRISON
+  # ⚡ SYSTEM OVERRIDE: ULTRA BASED SOLDIER XX
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Berserk+Mode+ON;Hacking+the+Mainframe;Python+%2F+C%2B%2B+%2F+Chaos;Doomer+Dev)
 
