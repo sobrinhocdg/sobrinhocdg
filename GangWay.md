@@ -24,7 +24,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobrinhocdg&layout=compact&theme=radical&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=0d1117" />
   </p>
 
-  ![Snake animation](https://github.com/sobrinhocdg/sobrinhocdg/blob/output/github-contribution-grid-snake.svg)
-
-  <img src="https://media.tenor.com/On7kvXhzml4AAAAi/loading-glitch.gif" width="50">
+  ### 🐍 Minha Cobra Devoradora de Pussy:
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sobrinhocdg/sobrinhocdg/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/sobrinhocdg/sobrinhocdg/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/sobrinhocdg/sobrinhocdg/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
