@@ -40,6 +40,6 @@
 
   <br>
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Yin_yang.gif" width="50" style="opacity: 0.8;">
+<img src="https://media.tenor.com/tHFA4wQzCqQAAAAi/skull-spinning-skull.gif" width="50">
 
 </div>
