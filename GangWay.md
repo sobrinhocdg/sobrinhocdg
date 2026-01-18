@@ -24,7 +24,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobrinhocdg&layout=compact&theme=radical&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=0d1117" />
   </p>
 
-  ### 🐍 Minha Cobra Devoradora de Pussy:
+  ### 🐍 DGW 33
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sobrinhocdg/sobrinhocdg/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/sobrinhocdg/sobrinhocdg/blob/output/github-contribution-grid-snake.svg" />
@@ -40,6 +40,6 @@
 
   <br>
 
- <img src="https://i.gifer.com/7S86.gif" width="60" style="opacity: 0.7;">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Yin_yang.gif" width="50" style="opacity: 0.8;">
 
 </div>
