@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="[https://media.giphy.com/media/pSmA3Fzdy7gOc/giphy.gif](https://wallpapers-clan.com/wp-content/uploads/2024/08/berserk-guts-red-glowing-eye-gif-desktop-wallpaper-preview.gif)" width="100%" height="200"/>
+  <img src="https://wallpapers-clan.com/wp-content/uploads/2024/08/berserk-guts-red-glowing-eye-gif-desktop-wallpaper-preview.gif" width="100%" height="200" style="object-fit: cover;"/>
 
   # ⚡ SYSTEM OVERRIDE: ULTRA BASED SOLDIER XX
 
